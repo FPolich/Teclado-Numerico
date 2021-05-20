@@ -1,0 +1,12 @@
+/home/aceleradora08/C# Ejercicios/Teclado numerico/unit-testing-using-mstest/PrimeService/obj/Debug/net5.0/PrimeService.csprojAssemblyReference.cache
+/home/aceleradora08/C# Ejercicios/Teclado numerico/unit-testing-using-mstest/PrimeService/obj/Debug/net5.0/PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+/home/aceleradora08/C# Ejercicios/Teclado numerico/unit-testing-using-mstest/PrimeService/obj/Debug/net5.0/PrimeService.AssemblyInfoInputs.cache
+/home/aceleradora08/C# Ejercicios/Teclado numerico/unit-testing-using-mstest/PrimeService/obj/Debug/net5.0/PrimeService.AssemblyInfo.cs
+/home/aceleradora08/C# Ejercicios/Teclado numerico/unit-testing-using-mstest/PrimeService/obj/Debug/net5.0/PrimeService.csproj.CoreCompileInputs.cache
+/home/aceleradora08/C# Ejercicios/Teclado numerico/unit-testing-using-mstest/PrimeService/bin/Debug/net5.0/PrimeService.deps.json
+/home/aceleradora08/C# Ejercicios/Teclado numerico/unit-testing-using-mstest/PrimeService/bin/Debug/net5.0/PrimeService.dll
+/home/aceleradora08/C# Ejercicios/Teclado numerico/unit-testing-using-mstest/PrimeService/bin/Debug/net5.0/ref/PrimeService.dll
+/home/aceleradora08/C# Ejercicios/Teclado numerico/unit-testing-using-mstest/PrimeService/bin/Debug/net5.0/PrimeService.pdb
+/home/aceleradora08/C# Ejercicios/Teclado numerico/unit-testing-using-mstest/PrimeService/obj/Debug/net5.0/PrimeService.dll
+/home/aceleradora08/C# Ejercicios/Teclado numerico/unit-testing-using-mstest/PrimeService/obj/Debug/net5.0/ref/PrimeService.dll
+/home/aceleradora08/C# Ejercicios/Teclado numerico/unit-testing-using-mstest/PrimeService/obj/Debug/net5.0/PrimeService.pdb
