@@ -8,28 +8,36 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/home/aceleradora08/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\dell\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/aceleradora08/C# Ejercicios/Teclado numerico/unit-testing-using-mstest/PrimeService/PrimeService.csproj",
+      "projectUniqueName": "C:\\Users\\dell\\Desktop\\Investigacion+Trabajo+Proyectos personales\\Pasantia\\C# Ejercicios\\Teclado numerico\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj",
       "projectName": "PrimeService",
-      "projectPath": "/home/aceleradora08/C# Ejercicios/Teclado numerico/unit-testing-using-mstest/PrimeService/PrimeService.csproj",
-      "packagesPath": "/home/aceleradora08/.nuget/packages/",
-      "outputPath": "/home/aceleradora08/C# Ejercicios/Teclado numerico/unit-testing-using-mstest/PrimeService/obj/",
+      "projectPath": "C:\\Users\\dell\\Desktop\\Investigacion+Trabajo+Proyectos personales\\Pasantia\\C# Ejercicios\\Teclado numerico\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj",
+      "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dell\\Desktop\\Investigacion+Trabajo+Proyectos personales\\Pasantia\\C# Ejercicios\\Teclado numerico\\unit-testing-using-mstest\\PrimeService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/aceleradora08/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
